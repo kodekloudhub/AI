@@ -14,7 +14,7 @@
 - [LangGraph](https://learn.kodekloud.com/courses/youtube-labs-langgraph)  
 - [RAG (Retrieval-Augmented Generation)](https://learn.kodekloud.com/courses/youtube-labs-rag)  
 - [RAG Crash Course](https://learn.kodekloud.com/courses/youtube-labs-rag-crash-course)  
-- [RAG Debugging, MCP Servers, SubAgents](https://learn.kodekloud.com/courses/ai-free-week-course)  
+- [**Course:** RAG Debugging, MCP Servers, SubAgents](https://learn.kodekloud.com/courses/ai-free-week-course)  
 - [Vector Databases](https://learn.kodekloud.com/courses/youtube-labs-vector-databases)  
 - [Memory in LLMs](https://learn.kodekloud.com/courses/youtube-labs-memory-in-llms)
 
@@ -29,11 +29,16 @@ Stay tuned for hands-on labs on:
 
 ---
 
-## ⚙️ Other Hands-On Labs
+## ⚙️ Automation & Workflow Labs (n8n)
+
+- [**Course:** n8n – Zero to Hero](https://learn.kodekloud.com/courses/n8n-zero-to-hero-2)  
+- [n8n Free Labs](https://learn.kodekloud.com/courses/youtube-labs-n8n)  
+
+---
+
+## 🧰 Other Hands-On Labs
 
 - [KodeKey (AI Playground)](https://kodekloud.com/ai-playgrounds/kodekey)  
-- [n8n – Zero to Hero Course](https://learn.kodekloud.com/courses/n8n-zero-to-hero-2)  
-- [n8n Free Labs](https://learn.kodekloud.com/courses/youtube-labs-n8n)  
 - [Google’s Nano Banana](https://learn.kodekloud.com/courses/youtube-labs-google-s-nano-banana)  
 - [Gemini CLI](https://learn.kodekloud.com/courses/youtube-labs-gemini-cli)  
 - [Claude Code](https://learn.kodekloud.com/courses/youtube-labs-claude-code)
