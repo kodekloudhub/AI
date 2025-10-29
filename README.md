@@ -23,7 +23,7 @@
 ## 🧩 MLOps *(Coming Soon!)*
 
 Stay tuned for hands-on labs on:
-- Model deployment pipelines  
+- KubeFlow  
 - Monitoring & observability in ML  
 - Continuous training and delivery (CT/CD)  
 
