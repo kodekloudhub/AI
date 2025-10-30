@@ -1,6 +1,6 @@
 # 🤖 Learn AI the Hands-On Way with KodeKloud Labs
 
-> **Not just watching — we believe in doing.**  
+> **Not just watching - we believe in doing.**  
 > Build real AI skills through KodeKloud’s curated, interactive labs designed to help you *learn by doing*.
 
 ---
@@ -45,6 +45,6 @@ Stay tuned for hands-on labs on:
 
 ---
 
-### 🌟 Learn by Doing — Always.
+### 🌟 Learn by Doing - Always.
 
 > Every KodeKloud AI Lab is built to make you **practice, experiment, and understand AI concepts** in real time — no theory-only learning, ever.
