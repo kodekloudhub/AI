@@ -36,10 +36,10 @@
 
 ---
 
-## 🧩 MLOps *(Coming Soon!)*
+## 🧩 MLOps
 
 Stay tuned for hands-on labs on:
-- KubeFlow Katib
+- [MLOps for Beginners](https://learn.kodekloud.com/courses/youtube-labs-mlops-for-beginners)
 
 ### 🌟 Learn by Doing - Always.
 
