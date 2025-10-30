@@ -20,15 +20,6 @@
 
 ---
 
-## 🧩 MLOps *(Coming Soon!)*
-
-Stay tuned for hands-on labs on:
-- KubeFlow  
-- Monitoring & observability in ML  
-- Continuous training and delivery (CT/CD)  
-
----
-
 ## ⚙️ Automation & Workflow Labs (n8n)
 
 - [**Course:** n8n – Zero to Hero](https://learn.kodekloud.com/courses/n8n-zero-to-hero-2)  
@@ -44,6 +35,11 @@ Stay tuned for hands-on labs on:
 - [Claude Code](https://learn.kodekloud.com/courses/youtube-labs-claude-code)
 
 ---
+
+## 🧩 MLOps *(Coming Soon!)*
+
+Stay tuned for hands-on labs on:
+- KubeFlow Katib
 
 ### 🌟 Learn by Doing - Always.
 
