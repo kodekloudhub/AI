@@ -40,6 +40,7 @@
 
 Stay tuned for hands-on labs on:
 - [MLOps for Beginners](https://learn.kodekloud.com/courses/youtube-labs-mlops-for-beginners)
+- [Microsfot Agent Framework](https://learn.kodekloud.com/courses/youtube-labs-microsoft-agent-framework-fundamentals)
 
 ### 🌟 Learn by Doing - Always.
 
