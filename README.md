@@ -44,4 +44,4 @@ Stay tuned for hands-on labs on:
 
 ### 🌟 Learn by Doing - Always.
 
-> Every KodeKloud AI Lab is built to make you **practice, experiment, and understand AI concepts** in real time — no theory-only learning, ever.
+> Every KodeKloud AI Lab is built to make you **practice, experiment, and understand AI concepts** in real time - no theory-only learning, ever.
