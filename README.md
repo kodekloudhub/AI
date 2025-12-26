@@ -17,7 +17,7 @@
 - [**Course:** RAG Debugging, MCP Servers, SubAgents](https://learn.kodekloud.com/courses/ai-free-week-course)  
 - [Vector Databases](https://learn.kodekloud.com/courses/youtube-labs-vector-databases)  
 - [Memory in LLMs](https://learn.kodekloud.com/courses/youtube-labs-memory-in-llms)
-- [RAG Bootcamp](https://bit.ly/4qq3fQQ)
+- [RAG Bootcamp](https://learn.kodekloud.com/courses/youtube-labs-rag-bootcamp)
 
 ---
 
